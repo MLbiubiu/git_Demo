@@ -8,12 +8,4 @@ HelloWorld
 HelloWorld
 HelloWorld
 
-master
-master
-master
-master
-master
-master
-master
-master
-master
+
